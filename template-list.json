@@ -26,5 +26,9 @@
     "rollup-vue-components-ts": {
         "desc": "(开源使用)  用rollup打包vue-ts组件的模版",
         "downloadUrl": "https://github.com.cnpmjs.org/ChongYu-Yease/rollup-vue-components-ts.git#master"
+    },
+    "vscode-webview-template": {
+        "desc": "(开源使用)  vscode webview 开发模板",
+        "downloadUrl": "https://github.com.cnpmjs.org/ChongYu-Yease/vscode-webview-template.git#master"
     }
 }
