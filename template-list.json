@@ -30,5 +30,9 @@
     "vscode-webview-template": {
         "desc": "(开源使用)  vscode webview 开发模板",
         "downloadUrl": "https://github.com.cnpmjs.org/ChongYu-Yease/vscode-webview-template.git#master"
+    },
+    "cli-template": {
+        "desc": "(开源使用)  cli 开发模板",
+        "downloadUrl": "https://github.com.cnpmjs.org/ChongYu-Yease/cli-template.git#master"
     }
 }
