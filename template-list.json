@@ -27,7 +27,7 @@
         "desc": "(开源使用)  用rollup打包vue-ts组件的模版",
         "downloadUrl": "https://hub.fastgit.org/ChongYu-Yease/rollup-vue-components-ts.git#master"
     },
-    "rollup-vue3-ts": {
+    "rollup-vue3-components-ts": {
         "desc": "(开源使用)  用rollup打包vue3-ts组件的模版",
         "downloadUrl": "https://hub.fastgit.org/ChongYu-Yease/rollup-vue3-ts-template.git#master"
     },
