@@ -31,6 +31,10 @@
         "desc": "(开源使用)  用rollup打包vue3-ts组件的模版",
         "downloadUrl": "https://github.com/ChongYu-Yease/rollup-vue3-ts-template.git#master"
     },
+    "rollup-vue3-plugin-ts": {
+        "desc": "(开源使用)  用rollup+ts打包vue3指令的模板",
+        "downloadUrl": "https://github.com/ChongYu-Yease/rollup-vue3-ts-plugin-template.git#master"
+    },
     "vscode-webview-template": {
         "desc": "(开源使用)  vscode webview 开发模板",
         "downloadUrl": "https://github.com/ChongYu-Yease/vscode-webview-template.git#master"
