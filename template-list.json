@@ -1,12 +1,4 @@
 {
-    // "vue2": {
-    //     "desc": "(内部使用) vue2 + vuex + route + element-ui + typescript(javascript)",
-    //     "downloadUrl": "https://gitlab.vdian.net/bigdata/vue-template.git"
-    // },
-    // "vue3": {
-    //     "desc": "(内部使用) vue3 + vuex + route + element-plus + typescript(javascript)",
-    //     "downloadUrl": "https://gitlab.vdian.net/bigdata/vue3-template.git"
-    // },
     "vite + vue3": {
         "desc": "(开源使用) vue3 + vuex + route + vite + element-plus + typescript(javascript)",
         "downloadUrl": "https://github.com/xcy960815/vue3-vite-template.git#master"
