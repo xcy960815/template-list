@@ -1,21 +1,21 @@
 {
     "vite + vue3": {
-        "desc": "vue3 + vuex + route + vite + element-plus + typescript(javascript)",
+        "desc": "  vue3 + vuex + route + vite + element-plus + typescript(javascript)",
         "downloadUrl": "https://github.com/xcy960815/vue3-vite-template.git#master"
     },
     "rollup-js-template": {
-        "desc": "用rollup打包js的模版",
+        "desc": " 用rollup打包js的模版",
         "downloadUrl": "https://github.com/xcy960815/rollup-js-template.git#master"
     },
     "rollup-ts-template": {
         "desc": " 用rollup打包ts的模版",
         "downloadUrl": "https://github.com/xcy960815/rollup-ts-template.git#master"
     },
-    "rollup-vue2-components": {
+    "rollup-vue2-component-js": {
         "desc": " 用rollup打包vue2-js组件的模版",
         "downloadUrl": "https://github.com/xcy960815/rollup-vue-components.git#master"
     },
-    "rollup-vue2-components-ts": {
+    "rollup-vue2-component-ts": {
         "desc": " 用rollup打包vue2-ts组件的模版",
         "downloadUrl": "https://github.com/xcy960815/rollup-vue-components-ts.git#master"
     },
