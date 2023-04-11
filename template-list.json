@@ -1,5 +1,5 @@
 {
-    "vite + vue3": {
+    "vite-vue3": {
         "desc": "vue3 + vuex + route + vite + element-plus + typescript(javascript)",
         "downloadUrl": "https://github.com/xcy960815/vue3-vite-template.git#master"
     },
